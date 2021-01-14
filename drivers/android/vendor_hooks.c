@@ -81,3 +81,4 @@ EXPORT_TRACEPOINT_SYMBOL_GPL(android_rvh_irqs_enable);
 EXPORT_TRACEPOINT_SYMBOL_GPL(android_rvh_cpu_cgroup_attach);
 EXPORT_TRACEPOINT_SYMBOL_GPL(android_rvh_cpu_cgroup_can_attach);
 EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_map_util_freq);
+EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_em_cpu_energy);
